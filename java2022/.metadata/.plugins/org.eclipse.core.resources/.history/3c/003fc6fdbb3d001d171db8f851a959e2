@@ -1,0 +1,13 @@
+package intro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//değişken isimlendirlemeleri camelCase yazılır
+		String ortaMetin="ilginizi çekebilir";
+		String altMetin="vade süresi";
+		System.out.println(ortaMetin);
+		System.out.println(altMetin);
+	}
+
+}
